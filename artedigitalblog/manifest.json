@@ -8,14 +8,12 @@
     "short_name": "Arte Digital",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://lfrakie.github.io/pwa-manifest/artedigitalblog/favicon.ico",
       "sizes": "16x16",
-      "type": "image/png"
     },
     {
-      "src": "favicon.ico",
+      "src": "https://lfrakie.github.io/pwa-manifest/artedigitalblog/favicon.ico",
       "sizes": "16x16",
-      "type": "image/png"
     }
   ],
   "theme_color": "#456BD9",
