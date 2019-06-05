@@ -1,26 +1,30 @@
 {
     "dir": "ltr",
     "lang": "es",
-    "name": "Arte Digital",
+    "short_name": "Cloud Four",
     "scope": "/",
     "display": "browser",
-    "start_url": "https://artedigitaljuliaca.blogspot.com/",
+    "start_url": "/",
     "short_name": "Arte Digital",
-    "theme_color": "#eeeeee",
-    "description": "app beta DESCRIPTION",
-    "orientation": "any",
-    "background_color": "transparent",
-    "related_applications": [],
-    "prefer_related_applications": false,
-    "icons": [
-        {
-            "src": "https://artedigitaljuliaca.blogspot.com/favicon.ico",
-            "sizes": "16x16"
-        },
-        {
-            "src": "https://artedigitaljuliaca.blogspot.com/favicon.ico",
-            "sizes": "16x16"
-        }
-    ],
-    "generated": true
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#456BD9",
+  "background_color": "#456BD9",
+  "display": "standalone",
+  "orientation": "natural",
+  "start_url": "/",
+  "categories": ["business", "technology", "web"],
+  "gcm_sender_id": "482941778795"
 }
+
+
