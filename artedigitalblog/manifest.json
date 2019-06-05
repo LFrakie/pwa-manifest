@@ -3,7 +3,7 @@
     "lang": "es",
     "name": "Arte Digital",
     "scope": "./",
-    "display": "browser",
+    "display": "fullscreen",
     "start_url": "//artedigitaljuliaca.blogspot.com/",
     "short_name": "Arte Digital",
     "theme_color": "#eeeeee",
