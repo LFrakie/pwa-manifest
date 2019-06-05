@@ -1,0 +1,26 @@
+{
+    "dir": "ltr",
+    "lang": "es",
+    "name": "Arte Digital",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://artedigitaljuliaca.blogspot.com/",
+    "short_name": "Arte Digital",
+    "theme_color": "#eeeeee",
+    "description": "app beta DESCRIPTION",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "16x16"
+        },
+        {
+            "src": "/images/favicon.ico",
+            "sizes": "16x16"
+        }
+    ],
+    "generated": true
+}
