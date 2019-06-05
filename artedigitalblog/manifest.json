@@ -2,7 +2,7 @@
     "dir": "ltr",
     "lang": "es",
     "name": "Arte Digital",
-    "short_name": "Cloud Four",
+    "short_name": "Arte Digital lf",
     "scope": "/",
     "display": "browser",
     "start_url": "/",
@@ -11,10 +11,12 @@
     {
       "src": "https://lfrakie.github.io/pwa-manifest/artedigitalblog/favicon.ico",
       "sizes": "16x16",
+      "type": "image/png"
     },
     {
       "src": "https://lfrakie.github.io/pwa-manifest/artedigitalblog/favicon.ico",
       "sizes": "16x16",
+      "type": "image/png"
     }
   ],
   "theme_color": "#456BD9",
