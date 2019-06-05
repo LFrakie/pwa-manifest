@@ -2,7 +2,7 @@
     "dir": "ltr",
     "lang": "es",
     "name": "Arte Digital",
-    "scope": "//artedigitaljuliaca.blogspot.com",
+    "scope": "./",
     "display": "browser",
     "start_url": "//artedigitaljuliaca.blogspot.com/",
     "short_name": "Arte Digital",
