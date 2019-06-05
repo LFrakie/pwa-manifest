@@ -1,6 +1,7 @@
 {
   "name": "Hanz Progressive Web App",
   "short_name": "PWA",
+  "scope" : "https://lfrakie.github.io/pwa-manifest/artedigitalblog/manifest.json",
   "description": "hanz Demo for progressive web app with push notifications, background sync etc.",
   "start_url": "https://artedigitaljuliaca.blogspot.com/?utm=homescreen",
   "display": "standalone",
