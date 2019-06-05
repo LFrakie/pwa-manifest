@@ -1,6 +1,7 @@
 {
     "dir": "ltr",
     "lang": "es",
+    "name": "Arte Digital",
     "short_name": "Cloud Four",
     "scope": "/",
     "display": "browser",
