@@ -8,13 +8,13 @@
     "short_name": "Arte Digital",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
-      "sizes": "192x192",
+      "src": "favicon.ico",
+      "sizes": "16x16",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-512x512.png",
-      "sizes": "512x512",
+      "src": "favicon.ico",
+      "sizes": "16x16",
       "type": "image/png"
     }
   ],
