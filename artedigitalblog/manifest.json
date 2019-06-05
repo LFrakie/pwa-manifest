@@ -2,30 +2,27 @@
     "dir": "ltr",
     "lang": "es",
     "name": "Arte Digital",
-    "short_name": "Arte Digital lf",
-    "scope": "/",
+    "scope": "//artedigitaljuliaca.blogspot.com",
     "display": "browser",
-    "start_url": "/",
+    "start_url": "//artedigitaljuliaca.blogspot.com/",
     "short_name": "Arte Digital",
-  "icons": [
-    {
-      "src": "favicon.png",
-      "sizes": "16x16",
-      "type": "image/png",
-    },
-    {
-      "src": "favicon.png",
-      "sizes": "16x16",
-      "type": "image/png",
-    }
-  ],
-  "theme_color": "#456BD9",
-  "background_color": "#456BD9",
-  "display": "standalone",
-  "orientation": "natural",
-  "start_url": "/",
-  "categories": ["business", "technology", "web"],
-  "gcm_sender_id": "482941778795"
+    "theme_color": "#eeeeee",
+    "description": "app beta DESCRIPTION",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://artedigitaljuliaca.blogspot.com/favicon.ico",
+            "sizes": "16x16"
+        },
+        {
+            "src": "https://artedigitaljuliaca.blogspot.com/favicon.ico",
+            "sizes": "16x16"
+        }
+    ],
+    "generated": true
 }
 
 
